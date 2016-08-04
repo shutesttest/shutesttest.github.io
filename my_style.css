@@ -1,0 +1,19 @@
+p {
+	color: red;
+
+}
+
+#a1 {
+}
+
+#a2 {
+	border: 10px solid;
+	
+	position: relative;
+	left: 45%;
+}
+
+#a3 {
+	position: relative;
+	left: 85%;
+}
